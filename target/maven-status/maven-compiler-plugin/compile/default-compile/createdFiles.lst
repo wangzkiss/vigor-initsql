@@ -1,0 +1,7 @@
+cn\vigor\entity\Platform.class
+cn\vigor\util\AESUtil.class
+cn\vigor\entity\ComputerBean.class
+cn\vigor\entity\JobRely.class
+cn\vigor\entity\PlatformNodeBean.class
+cn\vigor\Application.class
+cn\vigor\util\InitSqlUitl.class
